@@ -51,13 +51,11 @@ playground.xcworkspace
 # Add this line if you want to avoid checking in source code from the Xcode workspace
 # *.xcworkspace
 
-# Carthage
+# Carthage/Accio
 #
-# Add this line if you want to avoid checking in source code from Carthage dependencies.
-# Carthage/Checkouts
-
 Carthage/Build
-Carthage/Checkouts
+Carthage/checkouts
+.accio
 
 # fastlane
 #
